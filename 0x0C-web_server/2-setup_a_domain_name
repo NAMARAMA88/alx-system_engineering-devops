@@ -1,1 +1,27 @@
-namarama.tech
+{
+	"WhoisRecord": {
+		"domainName": "namarama.tech",
+		"parseCode": 0,
+		"audit": {
+			"createdDate": "2023-04-06 14:04:13 UTC",
+			"updatedDate": "2023-04-06 14:04:13 UTC"
+		},
+		"dataError": "MISSING_WHOIS_DATA",
+		"registryData": {
+			"domainName": "namarama.tech",
+			"rawText": "The queried object does not exist: DOMAIN NOT FOUND\n\n>>> Last update of WHOIS database: 2023-04-06T14:04:13.0Z <<<\n\nFor more information on Whois status codes, please visit https://icann.org/epp\n\n>>> IMPORTANT INFORMATION ABOUT THE DEPLOYMENT OF RDAP: please visit\nhttps://www.centralnic.com/support/rdap <<<\n\nThe Whois and RDAP services are provided by CentralNic, and contain\ninformation pertaining to Internet domain names registered by our\nour customers. By using this service you are agreeing (1) not to use any\ninformation presented here for any purpose other than determining\nownership of domain names, (2) not to store or reproduce this data in\nany way, (3) not to use any high-volume, automated, electronic processes\nto obtain data from this service. Abuse of this service is monitored and\nactions in contravention of these terms will result in being permanently\nblacklisted. All data is (c) CentralNic Ltd (https://www.centralnic.com)\n\nAccess to the Whois and RDAP services is rate limited. For more\ninformation, visit https://registrar-console.centralnic.com/pub/whois_guidance.",
+			"parseCode": 64,
+			"header": "The queried object does not exist: DOMAIN NOT FOUND\n>>> Last update of WHOIS database: 2023-04-06T14:04:13.0Z <<<\nFor more information on Whois status codes, please visit https://icann.org/epp\n>>> IMPORTANT INFORMATION ABOUT THE DEPLOYMENT OF RDAP: please visit\nhttps://www.centralnic.com/support/rdap <<<\nThe Whois and RDAP services are provided by CentralNic, and contain\ninformation pertaining to Internet domain names registered by our\nour customers. By using this service you are agreeing (1) not to use any\ninformation presented here for any purpose other than determining\nownership of domain names, (2) not to store or reproduce this data in\nany way, (3) not to use any high-volume, automated, electronic processes\nto obtain data from this service. Abuse of this service is monitored and\nactions in contravention of these terms will result in being permanently\nblacklisted. All data is (c) CentralNic Ltd (https://www.centralnic.com)\nAccess to the Whois and RDAP services is rate limited. For more\ninformation, visit https://registrar-console.centralnic.com/pub/whois_guidance.",
+			"strippedText": "",
+			"footer": "",
+			"audit": {
+				"createdDate": "2023-04-06 14:04:13 UTC",
+				"updatedDate": "2023-04-06 14:04:13 UTC"
+			},
+			"dataError": "MISSING_WHOIS_DATA",
+			"whoisServer": "whois.nic.tech"
+		},
+		"domainAvailability": "AVAILABLE",
+		"domainNameExt": ".tech"
+	}
+}
